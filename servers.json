@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "host": "104.234.180.52",
-            "port": "26010"
+            "host": "wgrp.lorem.asia",
+            "port": "20233"
         }
     ]
 }
