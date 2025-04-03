@@ -3,6 +3,10 @@
         {
             "host": "wgrp.lorem.asia",
             "port": "20233"
+        },
+        {
+            "host": "play.uifserver.net",
+            "port": "7776"
         }
     ]
 }
